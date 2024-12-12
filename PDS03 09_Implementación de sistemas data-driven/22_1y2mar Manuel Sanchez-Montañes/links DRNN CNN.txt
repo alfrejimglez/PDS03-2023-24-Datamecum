@@ -1,0 +1,5 @@
+Redes neuronales convolucionales (CNNs):
+https://drive.google.com/drive/folders/1ttTTn-VFLRRD_keFrgf_2hyixI4jkZR-
+
+Redes neuronales recurrentes profundas (DRRNs):
+https://drive.google.com/drive/folders/1eSBYAvT354faTqzdAvHx5Ezkwz7iXCrg

@@ -1,0 +1,31 @@
+name: AED_LP3
+channels:
+  - conda-forge
+dependencies:
+  - jupyter
+  - numpy
+  - pandas
+  - pip
+  - python=3.10.12
+  - scipy
+  - statsmodels
+  - seaborn
+  - fastparquet
+  - hdf5
+  - pytables
+  
+  
+  - pip:
+    - lets-plot
+    - pydataset
+    - openpyxl
+    - chardet
+    - pingouin
+    - palmerpenguins
+    - pyarrow
+    - fastparquet
+    - tables
+    - pyreadr
+    - xlrd
+    - pyreadstat
+    - h5py
